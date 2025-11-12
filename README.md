@@ -55,7 +55,9 @@ php artisan serve
 ```
 
 Docs Quiz:
-[Uploading Quiz Web Prog Before UTS.docx…]()
+
+[Quiz Web Prog Before UTS.docx](https://github.com/user-attachments/files/23509471/Quiz.Web.Prog.Before.UTS.docx)
+
 
 
 PREVIEW : 
